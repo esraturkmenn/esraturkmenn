@@ -1,9 +1,9 @@
 <h3 align="center">Hello, im Esra. </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esraturkmenn&label=Profile%20views&color=0e75b6&style=flat" alt="AS4LEX" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esraturkmenn&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/esra-türkmen-348404211/" target="blank"><img align="center" src="https://sadullahkisacik.com/wp-content/uploads/2019/12/linkedin.png" alt="Furkan YILMAZ" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/esra-türkmen-348404211/" target="blank"><img align="center" src="https://sadullahkisacik.com/wp-content/uploads/2019/12/linkedin.png" alt="Esra TÜRKMEN" height="40" width="40" /></a>
 <a href="https://www.instagram.com/tthesra/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="fuyk4n" height="40" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
